@@ -1,5 +1,5 @@
 # Automatizacion de controles de calidad en python
-Automatización de controles de calidad de un acelerador lineal de Radioterapia por medio de procesamiento de imágenes en Python, usando como base e inspiración.
+Automatización de controles de calidad de un acelerador lineal de Radioterapia por medio de procesamiento de imágenes en Python, usando pylinac como base e inspiración.
 
 Se desarrollaron los archivos hemicampos.py, picket_fence.py y campo_radiante_vs_luminoso.py en el marco de unas prácticas profesionales supervisadas en Fundación INTECNUS, Bariloche. 
 
