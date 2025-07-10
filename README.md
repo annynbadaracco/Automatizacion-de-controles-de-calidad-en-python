@@ -29,7 +29,7 @@ Los resultados obtenidos tras el procesamiento automatizado fueron presentados a
 # Integrantes
 
 ## **Autor:** **Anna Nuñez**
-Universidad Nacional de Córdoba, Córdoba, Argentina
+Universidad Nacional de Córdoba, Córdoba, Argentina.
 
 ### **Director:** **Sebastián Bianchini**
 Fundación INTECNUS de San Carlos de Bariloche , Río Negro, Argentina.
