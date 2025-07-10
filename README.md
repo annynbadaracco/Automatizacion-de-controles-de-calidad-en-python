@@ -14,7 +14,7 @@ En Radioterapia, los aceleradores lineales utilizados para administrar los trata
 
 Este trabajo presenta la **automatización de una parte esencial de cualquier control de calidad**: el análisis cuantitativo de los resultados, de forma objetiva e independiente del ojo del observador.
 
-Utilizando herramientas propias desarrolladas en Python, así como la librería [Pylinac](https://pylinac.readthedocs.io/en/latest/) [1][2][3] y otras librerías auxiliares, se automatizaron los siguientes controles:
+Utilizando herramientas propias desarrolladas en Python, así como la librería [Pylinac](https://pylinac.readthedocs.io/en/latest/) y otras librerías auxiliares, se automatizaron los siguientes controles:
 
 - **Picket-Fence**: basado en la implementación ya desarrollada en Pylinac.
 - **Hemicampos**: desarrollado de forma propia, tomando inspiración y propiedades de Pylinac.
