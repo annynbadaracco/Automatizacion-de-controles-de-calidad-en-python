@@ -1,17 +1,35 @@
-# Automatizacion de controles de calidad en python
-Automatización de controles de calidad de un acelerador lineal de Radioterapia por medio de procesamiento de imágenes en Python, usando pylinac como base e inspiración.
+# Automatización de controles de calidad en Python
 
-Se desarrollaron los archivos hemicampos.py, picket_fence.py y campo_radiante_vs_luminoso.py en el marco de unas prácticas profesionales supervisadas en Fundación INTECNUS, Bariloche. 
+Automatización de controles de calidad de un acelerador lineal de Radioterapia por medio de procesamiento de imágenes en Python, usando como base e inspiración la librería [Pylinac](https://pylinac.readthedocs.io/en/latest/).
 
-Abstract: 
-En Radioterapia, los aceleradores lineales que se utilizan para administrar los tratamientos, se encuentran dentro de un programa de garantía de calidad, por lo tanto, es necesario realizar controles periódicos que garanticen su correcto funcionamiento. En este trabajo se presenta la automatización de una parte esencial de cualquier control de calidad: el análisis cuantitativo de los resultados e independientes del ojo del observador. Utilizando herramientas propias desarrolladas en lenguaje Python, así como la conocida librería Pylinac y otras librerías se automatizaron los controles: Picket-Fence, Hemicampos y Coincidencia de campo luminoso con radiante. El control de picket-fence fue la implementación de la librería ya desarrollada en Pylinac, sin embargo los otros dos controles fueron desarrollados de forma propia, inspirados y utilizando algunas propiedades de pylinac y más librerías. Fue necesario modificar levemente algunas pruebas, así como desarrollar otras con errores introducidos de forma intencional  para establecer los límites de acción y tolerancias. Tras realizar los controles y el procesamiento automatizado, los resultados se presentaron al Staff de Física de Radioterapia de INTECNUS, con el objetivo de introducirlos en su sistema de gestión de calidad, así como lograr una realimentación de las posibles mejoras y consideraciones a tener en cuenta para un desarrollo posterior.
+Se desarrollaron los siguientes módulos durante unas prácticas profesionales supervisadas en Fundación INTECNUS, Bariloche:
 
+- `hemicampos.py`
+- `picket_fence.py`
+- `campo_radiante_vs_luminoso.py`
 
+## Abstract
 
+En Radioterapia, los aceleradores lineales utilizados para administrar los tratamientos están incluidos en un programa de garantía de calidad. Por lo tanto, es necesario realizar controles periódicos que aseguren su correcto funcionamiento.
 
+Este trabajo presenta la **automatización de una parte esencial de cualquier control de calidad**: el análisis cuantitativo de los resultados, de forma objetiva e independiente del ojo del observador.
 
+Utilizando herramientas propias desarrolladas en Python, así como la librería [Pylinac](https://pylinac.readthedocs.io/en/latest/) [1][2][3] y otras librerías auxiliares, se automatizaron los siguientes controles:
 
+- **Picket-Fence**: basado en la implementación ya desarrollada en Pylinac.
+- **Hemicampos**: desarrollado de forma propia, tomando inspiración y propiedades de Pylinac.
+- **Coincidencia de campo radiante con campo luminoso**: desarrollado de forma propia, utilizando funcionalidades de Pylinac y otras bibliotecas.
 
-Autores:
-Anna Nuñez1 and Sebastían Bianchini2
-1 Universidad Nacional de Córdoba, Córdoba, Argentina
+Para validar los scripts, se introdujeron errores intencionales y se ajustaron algunas pruebas con el fin de establecer **límites de acción y tolerancias**.
+
+Los resultados obtenidos tras el procesamiento automatizado fueron presentados al staff de Física de Radioterapia de INTECNUS, con el objetivo de ser incorporados al sistema de gestión de calidad y fomentar la retroalimentación para futuras mejoras.
+
+---
+
+# Integrantes
+
+## **Autor:** **Anna Nuñez**
+Universidad Nacional de Córdoba, Córdoba, Argentina
+
+### **Director:** **Sebastián Bianchini**
+Fundación INTECNUS de San Carlos de Bariloche , Río Negro, Argentina.
