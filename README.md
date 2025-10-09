@@ -38,6 +38,8 @@ Universidad Nacional de Córdoba, Córdoba, Argentina.
 
 Fundación INTECNUS de San Carlos de Bariloche , Río Negro, Argentina.
 
-### **Director:** **Sebastián Bianchini**
+
+**Sebastián Bianchini**
+
 Fundación INTECNUS de San Carlos de Bariloche , Río Negro, Argentina.
 Centro Atómico (CNEA), San Carlos de Bariloche, Argentina. 
