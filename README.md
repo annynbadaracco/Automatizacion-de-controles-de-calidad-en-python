@@ -29,18 +29,18 @@ Los resultados obtenidos tras el procesamiento automatizado fueron presentados a
 # Integrantes
 
 ## **Autores:**
-**Anna Nuñez**
+- **Anna Nuñez**
 
-Universidad Nacional de Córdoba, Córdoba, Argentina.
-
-
-**Roy Maximiliano Lápera**
-
-Fundación INTECNUS de San Carlos de Bariloche , Río Negro, Argentina.
+  Universidad Nacional de Córdoba, Córdoba, Argentina.
 
 
-**Sebastián Bianchini**
+- **Roy Maximiliano Lápera**
 
-Fundación INTECNUS de San Carlos de Bariloche , Río Negro, Argentina.
+  Fundación INTECNUS de San Carlos de Bariloche , Río Negro, Argentina.
 
-Centro Atómico (CNEA), San Carlos de Bariloche, Argentina. 
+
+- **Sebastián Bianchini**
+
+  Fundación INTECNUS de San Carlos de Bariloche , Río Negro, Argentina.
+
+  Centro Atómico (CNEA), San Carlos de Bariloche, Argentina.
