@@ -31,6 +31,8 @@ Los resultados obtenidos tras el procesamiento automatizado fueron presentados a
 ## **Autores:**
 **Anna Nuñez**
 Universidad Nacional de Córdoba, Córdoba, Argentina.
+
+
 **Roy Maximiliano Lápera**
 Fundación INTECNUS de San Carlos de Bariloche , Río Negro, Argentina.
 
