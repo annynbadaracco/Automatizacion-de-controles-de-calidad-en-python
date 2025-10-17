@@ -63,7 +63,7 @@ def seleccionar_archivo_y_verificar_extension(directorio):
         except ValueError:
             print("Por favor, ingresa un número válido.")
 
-# Utilizo los metadatos de mi imagen DICOM para saber en que fech y hora fue realizada la imagen.
+# Utilizo los metadatos de mi imagen DICOM para saber en que fecha y hora fue realizada la imagen.
 # Los guardo para ponerlos en el pdf.
 def Metadata(pf_img):
     dicom_dataset = pydicom.dcmread(pf_img)
